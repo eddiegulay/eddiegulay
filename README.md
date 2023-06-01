@@ -12,7 +12,7 @@ Software Engineer ||  Neural Networks geek. My Passion to AI & ML is just off th
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=eddiegulay)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Feelig wise today
+### ✍️ Feeling wise today
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
