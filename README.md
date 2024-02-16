@@ -1,5 +1,6 @@
 # 💫 Eddie Gulay
-Software Engineer ||  Neural Networks geek. My Passion to AI & ML is just off the charts.<br>
+Software Engineer || <br>
+Right now i am crafting [*Aida*](https://github.com/aida-llc)  
 
 
 ## 🌐 Socials:
