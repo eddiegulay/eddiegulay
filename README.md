@@ -1,6 +1,6 @@
 # 💫 Eddie Gulay
 Software Engineer || <br>
-Right now i am crafting [*Aida*](https://github.com/aida-llc)  
+Right now i am crafting [*Aida*](https://github.com/aida-llc)  [🌐](https://aida-llc.github.io)
 
 
 ## 🌐 Socials:
