@@ -1,5 +1,5 @@
 <div>
-  <h1>👨🏾‍🦲 Eddie Gulay</h1>
+  <h1>💫 Eddie Gulay</h1>
   <p>Software Engineer</p>
   <p>
     <a href="https://git.io/awesome-stats-card">
@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ef5fb1c6-18f2-4084-af25-5b1da27b5c8e" alt="BeDooBeDooMinionGIF" height="300" width="300">
+      <img src="https://github.com/user-attachments/assets/ef5fb1c6-18f2-4084-af25-5b1da27b5c8e" alt="BeDooBeDooMinionGIF" height="100" width="100">
     </td>
     <td>
       ⚠️ I am on a social media detox (if it is a real thing), just call me or send an email
