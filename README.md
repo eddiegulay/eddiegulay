@@ -30,47 +30,7 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/ef5fb1c6-18f2-4084-af25-5b1da27b5c8e" alt="BeDooBeDooMinionGIF" height="100" width="100">
-    </td>
-    <td>
-      ⚠️ I am on a social media detox (if it is a real thing), just call me or send an email
-    </td>
-  </tr>
-</table>
 
-
-<h2>💻 Tech Stack</h2>
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python"></td>
-    <td><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white" alt="Keras"></td>
-    <td><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" alt="TensorFlow"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white" alt="Django"></td>
-    <td><img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white" alt="Flask"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" alt="Java"></td>
-    <td><img src="https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639" alt="Android"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" alt="PHP"></td>
-    <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL"></td>
-    <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3"></td>
-    <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"></td>
-    <td><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white" alt="Chart.js"></td>
-  </tr>
-</table>
 
 <div>
   <p>👀 <img src="https://komarev.com/ghpvc/?username=eddiegulay" alt="Profile Views"> <a href="https://wakatime.com/@c17e0c16-7ca7-48f4-8213-69d36c20d717"><img src="https://wakatime.com/badge/user/c17e0c16-7ca7-48f4-8213-69d36c20d717.svg" alt="wakatime"></a></p>
