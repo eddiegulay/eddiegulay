@@ -1,6 +1,6 @@
 <div>
   <h1>💫 Eddie Gulay</h1>
-  <p>Software Engineer</p>
+  
   <p>
     <a href="https://git.io/awesome-stats-card">
       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/eddiegulay?cardType=level-alternate&theme=tokyonight&preferLogin=false" alt="My Awesome Stats">
