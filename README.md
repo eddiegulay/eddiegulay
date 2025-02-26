@@ -6,13 +6,7 @@
       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/eddiegulay?cardType=level-alternate&theme=tokyonight&preferLogin=false" alt="My Awesome Stats">
     </a>
   </p>
-  <p>
-    I was crafting AI stuff for <a href="https://github.com/aidalog"><em>Aida</em></a> 
-    <a href="https://aidalog.github.io">🌐 Check it out</a> 
-    but now I go full fullstack at <a href="https://flit.tz">
-      <img src="https://flit.tz/supplier/images/flit-fav.png" height="10">
-      Flit Company Limited</a>
-  </p>
+  
 </div>
 
 <h2>🌐 Socials</h2>
